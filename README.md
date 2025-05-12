@@ -1,6 +1,6 @@
 # Closet Companion
 
-![Closet Companion Logo](docs/images/logo.png)
+![Closet Companion Logo](docs/images/Closet.png)
 
 Closet Companion is an innovative AI-powered fashion assistant that helps users decide what to wear through personalized outfit recommendations. Using a sophisticated multi-agent architecture with 7 specialized LLMs, it considers weather conditions, occasions, and personal style preferences to deliver expertly tailored fashion advice.
 
