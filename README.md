@@ -48,6 +48,6 @@ This collaborative system mimics an entire fashion department working together t
 
 ## 📸 Screenshots
 
-![Workflow Architecture](docs/images/workflow-architecture.png)
-![Chat Interface](docs/images/chat-interface.png)
-![Sample Recommendation](docs/images/sample-recommendation.png)
+![Workflow Architecture](workflow-architecture.png)
+![Chat Interface](chat-interface.png)
+![Sample Recommendation](sample-recommendation.png)
