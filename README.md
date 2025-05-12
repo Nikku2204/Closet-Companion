@@ -32,8 +32,7 @@ What makes Closet Companion unique is its advanced agentic approach, using 7 spe
 | **Occasion Specialist** | Social context | Refines recommendations based on event type and dress code requirements |
 | **Personal Style Advisor** | Personalization | Adapts suggestions to align with user's documented preferences |
 | **Fashion Concierge** | General assistance | Handles fashion questions outside the core recommendation workflow |
-| **Outfit Finalizer** | Synthesis | Combines insights from all specialists into cohesive recommendations |
-| **Style Educator** | Fashion knowledge | Provides background information on style principles and fashion advice |
+
 
 This collaborative system mimics an entire fashion department working together to create the perfect outfit recommendation, with each agent contributing specialized knowledge and expertise.
 
